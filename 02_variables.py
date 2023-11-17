@@ -31,8 +31,8 @@ print(rollNo)
 rollNo[2]=5 
 print(rollNo)
 name1 = "robin"
-name1[2]= 'o'
-print(name1)
+# name1[2]= 'o' here character wont get updated bc strings are im-mutable
+# print(name1) 
 
 
 
